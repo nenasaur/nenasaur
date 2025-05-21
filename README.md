@@ -13,7 +13,7 @@ I any project, I just need to be learning something new
 by my email: Iansouzamolina@gmail.com
 
   - 😄 Pronouns: …
-hey
+he
 - ⚡ Fun fact: ..
 I also like aviation, physics, history and MATH
 
