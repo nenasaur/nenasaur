@@ -16,8 +16,10 @@ by my email: Iansouzamolina@gmail.com
 
   - 😄 Pronouns: …
 he
-- ⚡ Fun fact: ..
-I also like aviation, physics, history and MATH
+
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+          
+                  
 
  :)
 <!---
