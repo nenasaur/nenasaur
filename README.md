@@ -16,6 +16,8 @@ by my email: Iansouzamolina@gmail.com
 
   - 😄 Pronouns: …
 he
+
+ linguagens que mais uso :
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
