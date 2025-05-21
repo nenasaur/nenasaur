@@ -1,4 +1,4 @@
-# Oiiee
+# Hi !
 
 - 👋 Hi, I'm @nenasaur,I'm 15 years old and I'm already looking for my technical level mechatronics engineering diploma
 
@@ -25,7 +25,14 @@ he
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
   </div>
+##
 
+<div>
+  <a href="https://nenasaur">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nenasaur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenasaur&layout=compact&langs_count=16&theme=tokyonight"/>
+  </a>
+</div>
                 
 
  :)
