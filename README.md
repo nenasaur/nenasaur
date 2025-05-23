@@ -28,6 +28,15 @@ he
 
 <br>
 
+<div>
+  <a href="https://nenasaur">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nenasaur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenasaur&layout=compact&langs_count=16&theme=tokyonight"/>
+  </a>
+</div>
+                
+
+
  :)
 <!---
 nenasaur/nenasaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
