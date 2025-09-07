@@ -29,7 +29,7 @@ he
 <div>
   <a href="https://nenasaur">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nenasaur&show_icons=true&theme=tokyonight&include_all_commits=1&count_private=1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenasaur&layout=compact&langs_count=1000&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenasaur&layout=compact&langs_count=1&theme=tokyonight"/>
   </a>
 </div>
                 
