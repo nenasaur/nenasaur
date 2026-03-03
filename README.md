@@ -6,7 +6,7 @@
 learn how to program a website for my project with arduino to receive data from sensors without being close
 
   - 🌱 I'm learning...
- I'm currently improving my CSS and JavaScript skills. 
+ I'm currently improving my javaScript skills. 
 
   - 💞️ I want to collaborate on…
 I any project, I just need to be learning something new
