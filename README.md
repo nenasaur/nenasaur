@@ -1,6 +1,6 @@
 # Hi !
 
-- 👋 Hi, I'm @nenasaur,I'm 16 years old and I'm already looking for my technical level mechatronics engineering diploma
+- 👋 Hi, I'm @nenasaur,I'm 17 years old and I'm already looking for my technical level mechatronics engineering diploma
 
   - 👀 I’m interested in…
 learn how to program a website for my project with arduino to receive data from sensors without being close
