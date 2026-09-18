@@ -22,16 +22,7 @@ he
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />      
   </div>
-
-<br>
-
-<div>
-  <a href="https://nenasaur">
-    <img height="179em" src="https://github-readme-stats.vercel.app/api?username=nenasaur&show_icons=true&theme=tokyonight&include_all_commits=1&count_private=1"/>
-    <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenasaur&layout=compact&langs_count=1000&theme=tokyonight"/>
-  </a>
-</div>
-                
+    
 
 
 
